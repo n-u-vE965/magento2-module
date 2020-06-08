@@ -5,7 +5,7 @@
   "version": "1.1.1",
   "type": "metapackage",
   "require": {
-    "getresponse/magento2": "20.4.1",
+    "getresponse/magento2": "20.4.2",
     "getresponse/share-code-plugin": "7.0.*"
   }
 }
